@@ -1,0 +1,11 @@
+{
+  "name": "rrzu/taobao-topsdk",
+  "description": "淘宝开放平台 SDK",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "TaoBao\\TopSdk\\": "src/"
+    }
+  },
+  "require": {}
+}
